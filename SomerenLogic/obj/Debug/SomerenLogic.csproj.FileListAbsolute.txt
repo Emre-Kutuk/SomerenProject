@@ -115,3 +115,15 @@ C:\Users\logoff\Desktop\[Group6]Assignment3\Someren1920F\SomerenLogic\obj\Debug\
 C:\Users\logoff\Desktop\[Group6]Assignment3\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
 C:\Users\logoff\Desktop\[Group6]Assignment3\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
 C:\Users\logoff\Desktop\[Group6]Assignment3\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenLogic\obj\Debug\SomerenLogic.pdb

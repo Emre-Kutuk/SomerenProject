@@ -94,3 +94,13 @@ C:\Users\logoff\Desktop\[Group6]Assignment3\Someren1920F\SomerenDAL\obj\Debug\So
 C:\Users\logoff\Desktop\[Group6]Assignment3\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
 C:\Users\logoff\Desktop\[Group6]Assignment3\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.dll
 C:\Users\logoff\Desktop\[Group6]Assignment3\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Projects\inhollandIT\Projects\SomerenProject\SomerenDAL\obj\Debug\SomerenDAL.pdb
